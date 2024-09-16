@@ -349,7 +349,7 @@ public class WorkshopTest {
         assertTrue(tester.jugarPiedraPapelTijeraLagartoSpock("Papel").equals("Ganaste") ||
                 tester.jugarPiedraPapelTijeraLagartoSpock("Papel").equals("Perdiste") ||
                 tester.jugarPiedraPapelTijeraLagartoSpock("Papel").equals("Empate"));
-           }
+    }
 
 
     @Test
